@@ -1,6 +1,6 @@
 Thursday Assignment/Practical Session
 
-1. Install git 2.42.0.2...
+1.Install git 2.42.0.2...
 2.Access Git Bash.
 3.Clone the created project to your local machine:
 (Git clone {link obtained from the repository}
