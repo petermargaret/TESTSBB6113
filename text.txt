@@ -7,7 +7,7 @@ Thursday Assignment/Practical Session
 
 Note:
 
-* Make all changes within the Main Folder in order to push changes to the remote repository
+*Make all changes within the Main Folder in order to push changes to the remote repository
 *Check status: git status
 *Add all changes to the staging area: git add .
 *Commit all the changes before pushing: git commit -m "This is my first trial, I just typed the assignment"
