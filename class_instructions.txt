@@ -26,3 +26,5 @@ Assignment 3: Raw Data Database Search
 •	For this Class pick on FASTQ 
 •	Scroll On the download click on any depending on which tool you.
 •	Wait for download to complete then save and store.
+
+#END
