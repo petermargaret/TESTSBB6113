@@ -14,3 +14,15 @@ Note:
 *push changes to the main branch:  git push origin main.
 
 END
+
+24/10/2023
+Assignment 3: Raw Data Database Search
+.              Identify Microorganism of interest e.g. (Viruses, Bacteria, Archaea, Fungi, and Protists)
+•	Find code/ Acc. No of the microorganism with complete genome sequence read already archived NCBI e.g..
+•	Go to NCBI SRA (Sequence Read Archive). SRR24415235
+•	On the search window, paste Acc. No. of interest.
+•	Scroll down to a table. Click on the searched number near RUN.
+•	Choose download Option for FASTA or FASTQ
+•	For this Class pick on FASTQ 
+•	Scroll On the download click on any depending on which tool you.
+•	Wait for download to complete then save and store.
