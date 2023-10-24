@@ -3,7 +3,7 @@
 import gzip 
 
 print("unzipping Genome File...")
-seq = b'SRR26442322.fastq.gz'
+seq = 'SRR26442322.fastq.gz'
 seq = gzip.compress(seq) 
   
 # using gzip.decompress(seq) method 
