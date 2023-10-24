@@ -13,7 +13,7 @@ The file is 151MB zip size and 1.2GB unzipped.
 The maximum push size is 100MB for git repositories.
 I have saved it on ai_es directory on my desktop.
 ================================================================================================
-About Python Version
+About Python Version installed.
 3.11.5
 =================================================================================================
 
