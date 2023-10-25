@@ -1,5 +1,5 @@
 
-# importing the "tarfile" module 
+# importing the "tarfile" module.
 import tarfile 
   
 # open file 
