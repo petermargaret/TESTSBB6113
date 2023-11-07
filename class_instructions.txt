@@ -28,3 +28,22 @@ Assignment 3: Raw Data Database Search
 •	Wait for download to complete then save and store.
 
 #END
+
+=======================================================
+07/11/2023
+================================================
+
+1. Installation of conda
+2. Creation of conda environments
+3. Activation of conda environment
+4. Creating working folder in Vscode
+5. Installation of Fastqc software 
+6. Analyses of SRR24415235 sequence QC
+=============================================================
+Installation of Additional tools
+1. Flye
+2. Shovill
+3. Bandage
+===================================================================
+Marked as: Complete
+
